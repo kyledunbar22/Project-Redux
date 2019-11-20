@@ -1,0 +1,25 @@
+.navbar-nav{
+  padding-left: 400px;
+}
+.text1{
+  color:#ACFE2F;
+}
+.button{
+  width: inherit;
+}
+.jumbotron{
+background-color: #9ACD32;
+padding-left:400px;
+}
+img {
+  width:100%;
+}
+p {
+  font-size: 12px;
+}
+.orange{
+  background-color: #DAA521;
+}
+.blackline{
+  background-color: black;
+}
